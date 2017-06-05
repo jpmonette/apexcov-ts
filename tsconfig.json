@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": [
+      "es2015"
+    ],
+    "outDir": "./bin",
+    "rootDir": "./src",
+    "watch": true,
+    "strict": true,
+    "strictNullChecks": false
+  },
+  "compileOnSave": true
+}
